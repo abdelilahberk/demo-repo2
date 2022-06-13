@@ -4,3 +4,8 @@ body{
 h1{
     background-color: yellow;
 }
+
+*{
+    padding: 100px 100px ;
+    border: 1px solid black;
+}
